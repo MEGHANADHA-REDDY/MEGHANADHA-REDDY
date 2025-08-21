@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-- 🔭 I’m currently working on **cloning famous websites**
+- 🔭 I’m currently working on **building impactfull websites**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently a **full stack development**
 
 - 📫 How to reach me **meghanadreddy005@gmail.com**
 
