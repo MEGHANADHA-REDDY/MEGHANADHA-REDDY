@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building impactfull websites**
 
-- 🌱 I’m currently a **full stack development**
+- 🌱 I’m currently a **full stack developer**
 
 - 📫 How to reach me **meghanadreddy005@gmail.com**
 
